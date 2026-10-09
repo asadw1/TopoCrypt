@@ -1,0 +1,25 @@
+# Build output
+*.o
+*.obj
+*.a
+*.lib
+*.so
+*.dll
+*.dylib
+*.exe
+*.pdb
+*.ilk
+*.exp
+build/
+bin/
+
+# Logs and scratch
+logs/*
+!logs/.gitkeep
+
+# Editors and OS
+.vscode/
+.vs/
+.idea/
+Thumbs.db
+.DS_Store
